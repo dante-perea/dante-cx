@@ -1,0 +1,14 @@
+{
+  "name": "dante-cx",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Agentic-first CRM consumed mainly by agents.",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
